@@ -12,11 +12,11 @@ API_HASH = getenv("API_HASH")
 # Get your token from @BotFather on Telegram.
 BOT_TOKEN = getenv("BOT_TOKEN")
 # Add Owner Username without @ 
-OWNER_USERNAME = getenv("OWNER_USERNAME","VICKY_CHOUDHARY_1203")
+OWNER_USERNAME = getenv("OWNER_USERNAME","InnocentIdkaaa")
 # Get Your bot username
-BOT_USERNAME = getenv("BOT_USERNAME" , "PAKHI_MUSIC_BOT")
+BOT_USERNAME = getenv("BOT_USERNAME" , "Moonlight_music_robot")
 # Don't Add style font 
-BOT_NAME = getenv("BOT_NAME" , "𝐏αкнι ✗ ɱυѕιƈ, 🎶 [ᴠ ᴘ]")
+BOT_NAME = getenv("BOT_NAME" , "𝄟‌≛⃝🥀𝗠ʘ𝖔𝒏ใïᧁ𝒉𝐭⎯꯭‌𝆺꯭𝅥✗𝐃᭄𓆪ꪾ🥀")
 #get Your Assistant User name
 ASSUSERNAME = getenv("ASSUSERNAME" , "GUPP_SHUP_ASSTANT")
 EVALOP = list(map(int, getenv("EVALOP", "7001982096").split()))
