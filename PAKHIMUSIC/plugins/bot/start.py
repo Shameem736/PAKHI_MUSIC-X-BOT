@@ -63,16 +63,16 @@ STICKER = [
 
 
 ANNIE_VID = [
-"https://telegra.ph/file/1726f9434ef52f54c12eb.mp4",
-"https://telegra.ph/file/a4d90b0cb759b67d68644.mp4",
-"https://telegra.ph/file/c6c1ac9aee4192a8a3747.mp4",
-"https://telegra.ph/file/2b75449612172a96d4599.mp4",
-"https://telegra.ph/file/0b53cfe4a712af439d50f.mp4",
-"https://telegra.ph/file/64291485c422535f0143d.mp4",
-"https://telegra.ph/file/30ec7c936db6cd2ce7c61.mp4",
-"https://telegra.ph/file/e8bcb814e2c52c11a0f1d.mp4",
-"https://telegra.ph/file/9b7e1b820c72a14d90be7.mp4",
-"https://telegra.ph/file/37d1815385f8244f9a282.mp4"
+"https://telegra.ph/file/396105205302d8af71912.mp4",
+"https://telegra.ph/file/bb9fb108bfdaf000bd724.mp4",
+"https://telegra.ph/file/29a9bd0fff032b4075804.mp4",
+"https://telegra.ph/file/d721364bd3b704185d6bb.mp4",
+"https://telegra.ph/file/c35eec6daf85bb743cec6.mp4",
+"https://telegra.ph/file/045264c69f64c7e0ddc90.mp4",
+"https://telegra.ph/file/5acdc3978bb18e7d19fa1.mp4",
+"https://telegra.ph/file/3fea55b140fe870379360.mp4",
+"https://telegra.ph/file/ac573bda31359a8bb51a5.mp4",
+"https://te.legra.ph/file/ef47f077b671f69f8d8f0.mp4"
 
 
 ]
