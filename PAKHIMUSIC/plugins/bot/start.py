@@ -68,11 +68,7 @@ ANNIE_VID = [
 "https://telegra.ph/file/29a9bd0fff032b4075804.mp4",
 "https://telegra.ph/file/d721364bd3b704185d6bb.mp4",
 "https://telegra.ph/file/c35eec6daf85bb743cec6.mp4",
-"https://telegra.ph/file/045264c69f64c7e0ddc90.mp4",
-"https://telegra.ph/file/5acdc3978bb18e7d19fa1.mp4",
-"https://telegra.ph/file/3fea55b140fe870379360.mp4",
-"https://telegra.ph/file/ac573bda31359a8bb51a5.mp4",
-"https://te.legra.ph/file/ef47f077b671f69f8d8f0.mp4"
+
 
 
 ]
