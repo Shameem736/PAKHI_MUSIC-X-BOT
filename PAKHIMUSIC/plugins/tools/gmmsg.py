@@ -5,7 +5,7 @@ from PAKHIMUSIC import app
 
 
 ###### GOOOD MORNING 
-@app.on_message(filters.command(["gm","goodmorning"], prefixes=["/","g","G", "" ]))
+@app.on_message(filters.command(["gm","good morning"], prefixes=["/","g","G", "" ]))
 def goodnight_command_handler(_, message):
     sender = message.from_user.mention
     send_video = random.choice([True, False])
